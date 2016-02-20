@@ -1,5 +1,5 @@
 {
-    "name": "mtudor/zfc-user-impersonate",
+    "name": "joe-parente/zfc-user-impersonate",
     "description": "Facilitate impersonation of other users in ZfcUser.",
     "type": "library",
     "keywords": [
@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "zf-commons/zfc-user": "~1.2"
+        "joe-parente/zfc-user": "dev-master"
     },
     "autoload": {
         "psr-0": {
