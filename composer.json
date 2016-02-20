@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "joe-parente/zfc-user": "dev-master"
+        "joe-parente/zfc-user": "1.4.2"
     },
     "autoload": {
         "psr-0": {
